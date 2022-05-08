@@ -4,6 +4,8 @@
 το Git. Το Git λόγω της distributed VCS φύσης του δίνει τη δυνατότητα δημιουργίας αντιγράφου της πιο πρόσφατης έκδοσης του κώδικα με σκοπό την ανεξάρτητη συνεισφορά και
 τροποποίηση του από τους προγραμματιστές και την αποφυγή κεντρικού αποθετηρίου, αφού υπάρχει η επιλογή της κλωνοποίησης.
 
+Photo by user [RealToughCandy.com]( https://www.pexels.com/el-gr/@realtoughcandy/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) at [Pexels](https://www.pexels.com/el-gr/photo/11035539/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
 ![](git.md){.figure}
 
 Η δημιουργία του Git έμπνευσε τον Tom Preston-Werner να δημιουργήσει μία πλατφόρμα όπου οι δυνατότητες του εργαλείου αυτού θα αξιοποιούνταν όσο το δυνατόν περισσότερο, με
@@ -11,6 +13,8 @@
 Chris Wanstrath, όπου τελικά θα εργαζόντουσαν από κοινού τα σαββατοκύριακα για τρείς μήνες μέχρι τη Beta κυκλοφορία του Github. Σε πολύ μικρό χρονικό διάστημα αποδείχθηκε
 πως άρεσε πολύ στον κόσμο με αποτέλεσμα να συνειδητοποιήσουν πως αυτό το “μικρό” project θα μπορούσε να γίνει κάτι το οποίο θα άλλαζε τον τρόπο που ο κόσμος γράφει και
 δημοσιεύει τον κώδικά του.
+
+Image by [b3nj5m1n]( https://pixabay.com/users/b3nj5m1n-5952967/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2582757) from [Pixabay]( https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2582757)
 
 ![](github.md){.figure}
 
