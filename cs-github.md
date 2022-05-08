@@ -4,9 +4,9 @@
 το Git. Το Git λόγω της distributed VCS φύσης του δίνει τη δυνατότητα δημιουργίας αντιγράφου της πιο πρόσφατης έκδοσης του κώδικα με σκοπό την ανεξάρτητη συνεισφορά και
 τροποποίηση του από τους προγραμματιστές και την αποφυγή κεντρικού αποθετηρίου, αφού υπάρχει η επιλογή της κλωνοποίησης.
 
-Photo by user [RealToughCandy.com]( https://www.pexels.com/el-gr/@realtoughcandy/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) at [Pexels](https://www.pexels.com/el-gr/photo/11035539/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-
 ![](git.md){.figure}
+
+Photo by user [RealToughCandy.com]( https://www.pexels.com/el-gr/@realtoughcandy/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) at [Pexels](https://www.pexels.com/el-gr/photo/11035539/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 Η δημιουργία του Git έμπνευσε τον Tom Preston-Werner να δημιουργήσει μία πλατφόρμα όπου οι δυνατότητες του εργαλείου αυτού θα αξιοποιούνταν όσο το δυνατόν περισσότερο, με
 τη δημοσίευση ολόκληρων βιβλιοθηκών από κώδικα και την αποδοτικότερη συνεργασία σε ομαδικά projects από προγραμματιστές. Αυτό μπόρεσε να υλοποιηθεί όταν γνωρίστηκε με τον
@@ -14,9 +14,9 @@ Chris Wanstrath, όπου τελικά θα εργαζόντουσαν από κ
 πως άρεσε πολύ στον κόσμο με αποτέλεσμα να συνειδητοποιήσουν πως αυτό το “μικρό” project θα μπορούσε να γίνει κάτι το οποίο θα άλλαζε τον τρόπο που ο κόσμος γράφει και
 δημοσιεύει τον κώδικά του.
 
-Image by [b3nj5m1n]( https://pixabay.com/users/b3nj5m1n-5952967/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2582757) from [Pixabay]( https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2582757)
-
 ![](github.md){.figure}
+
+Image by [b3nj5m1n]( https://pixabay.com/users/b3nj5m1n-5952967/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2582757) from [Pixabay]( https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2582757)
 
 Η επιτυχία του Github δεν ήταν τυχαία αφού οι αποφάσεις που πάρθηκαν στον επιχειρησιακό τομέα αποδείχθηκαν σοφές. Το μεγάλο προτέρημά του ήταν το δωρεάν μοντέλο που
 υιοθέτησε για τη δημοσίευση δημόσιου κώδικα και η απλότητα στη χρήση του. Σήμερα πολύ υποστηρίζουν πως ο προσωπικός λογαριασμός Github ενός προγραμματιστή είναι ακομή πιο
