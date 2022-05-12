@@ -18,6 +18,6 @@ To RPM package manager είναι ένα ανοιχτό και ελεύθερο�
 
 ### Πηγές
 
-1. [RPM package manager-packet types](https://en.wikipedia.org/wiki/RPM_Package_Manager/)
-2. [What RPM is used for](https://rpm.org/)
-3. [RPM installation database-example in Fedora Linux](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch02s02.html/)
+1. [RPM package manager-packet types](https://en.wikipedia.org/wiki/RPM_Package_Manager)
+2. [What RPM is used for](https://rpm.org)
+3. [RPM installation database-example in Fedora Linux](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch02s02.html)
