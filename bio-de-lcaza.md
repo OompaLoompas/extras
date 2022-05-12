@@ -13,7 +13,7 @@ O de lcaza μαζί με τον Nat Friedman συνίδρυσαν την ετα�
 H Xamarin ανακοίνωσε την εξαγορά της απο την Microsoft τον Φεβρουάριο του 2016. Ένα μήνα αργότερα, στη διάσκεψη Microsoft Build, ανακοινώθηκε ότι το έργο Mono θα αδειοδοτηθεί εκ νέου στο MIT, το Visual Studio θα περιελάμβανε το Xamarin ακόμη και τις δωρεάν εκδόσεις, χωρίς περιορισμούς και τα Xamarin SDK θα ήταν ανοιχτού κώδικα.[4]
 
 ### Πηγές
-1. [Early steps of Miguel de lcaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza/)
-2. [GNOME project](https://dl.acm.org/doi/fullHtml/10.5555/327674.327681/)
-3. [Helix Company-later name Ximian](https://en.wikipedia.org/wiki/Ximian/)
-4. [Xamarin in Visual stuio code](https://www.wikiwand.com/en/Miguel_de_Icaza/)
+1. [Early steps of Miguel de lcaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)
+2. [GNOME project](https://dl.acm.org/doi/fullHtml/10.5555/327674.327681)
+3. [Helix Company-later name Ximian](https://en.wikipedia.org/wiki/Ximian)
+4. [Xamarin in Visual stuio code](https://www.wikiwand.com/en/Miguel_de_Icaza)
